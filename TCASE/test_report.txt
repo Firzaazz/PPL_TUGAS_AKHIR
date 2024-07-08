@@ -1,0 +1,4 @@
+Test Report: OrangeHRM System
+=================================
+TC001: Verify that the Admin menu is accessible and displays the correct sub-menus.
+TC002: Verify that the PIM menu is accessible and displays the correct sub-menus.
